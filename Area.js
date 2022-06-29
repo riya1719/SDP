@@ -6,7 +6,7 @@ class Area
   
     }
     Circle() {
-      let area1 = 3.14 * this.x * this.x ;
+      let area1 = 3.1454 * this.x * this.x ;
       return area1;
     }
     Square() {
